@@ -1,6 +1,6 @@
 # 💻 Cibersecurity: Desafio Ransomware  
 
-Este repositório contém um exemplo de código utilizado para criptografia de arquivos como parte de um **desafio de cibersegurança**. A finalidade é **educativa**, voltada para o estudo de proteção contra ataques ransomware e compreensão de suas técnicas. ⚠️ **Use este código de forma ética e responsável.**
+Este repositório contém um exemplo de código utilizado para criptografia de arquivos como parte de um **desafio de cibersegurança** do bootcamp **Santander Ciberseguranca 2024**
 
 ---
 
